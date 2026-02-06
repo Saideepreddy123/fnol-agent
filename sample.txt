@@ -1,0 +1,19 @@
+Policy Number: AB123456
+Policyholder Name: Rakesh Sharma
+Effective Dates: 01/01/2024 - 01/01/2025
+
+Incident Date: 08/12/2025
+Incident Time: 10:30 AM
+Incident Location: MG Road, Bangalore
+Description: Car was hit from behind while stationary. No injuries. Photos attached.
+
+Claimant: Rakesh Sharma
+Contact: rakesh@example.com, +91 9876543210
+
+Asset Type: Vehicle
+Asset ID: KA01AB1234
+Estimated Damage: 12000
+
+Claim Type: vehicle
+Attachments: photos
+Initial Estimate: 12000
