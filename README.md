@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 #Process an FNOL text file:
 
-python fnol_agent.py sample.txt
+python3 fnol_agent.py sample.txt
 
 
 
